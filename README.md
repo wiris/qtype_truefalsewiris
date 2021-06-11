@@ -1,6 +1,6 @@
 # Wiris Quizzes True/False question type
 
-[![Build Status](https://travis-ci.com/wiris/moodle-qtype_truefalsewiris.svg)](https://travis-ci.com/wiris/moodle-qtype_truefalsewiris)
+[![Moodle Plugin CI](https://github.com/wiris/moodle-qtype_truefalsewiris/actions/workflows/ci.yml/badge.svg)](https://github.com/wiris/moodle-qtype_truefalsewiris/actions/workflows/ci.yml)
 
 The True/False Wiris Quizzes question type extends the Moodle True/False type, adding mathematical functionality to it.
 
